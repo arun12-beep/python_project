@@ -1,0 +1,2 @@
+this is another file i am writing content to the file
+i finished writing the contenti am still adding content using append mode hehehehehi am still adding content using append mode heheheheh
